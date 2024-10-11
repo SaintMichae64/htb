@@ -1097,3 +1097,4 @@ Impacket v0.12.0.dev1 - Copyright 2023 Fortra
 > - `impacket-psexec`:
 >   - `-no-pass` - don't ask for password (useful for `-k`)
 >   - `-k` - Use Kerberos authentication. Grabs credentials from ccache file (`KRB5CCNAME`) based on target parameters. If valid credentials cannot be found, it will use the ones specified in the command line
+>   
